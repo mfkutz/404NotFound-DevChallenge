@@ -1,4 +1,4 @@
-import scarecrow from '../assets/scarecrow.png'
+import scarecrow from '../../public/Scarecrow.png'
 
 
 const NotFound = () => {
