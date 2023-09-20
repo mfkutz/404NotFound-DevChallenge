@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Contact me
 - [Contact](https://www.linkedin.com/in/martin-federico-kutzner-95ba66139/)
 
 
