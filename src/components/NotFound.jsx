@@ -36,9 +36,7 @@ const NotFound = () => {
                     </hero>
                 </div>
             </div>
-            <div className=' text-center pt-10 text-[12px]'>
-                Created by mfkutz - devChallenges.io
-            </div>
+           
         </>
     )
 }
