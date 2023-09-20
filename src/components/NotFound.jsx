@@ -13,8 +13,8 @@ const NotFound = () => {
                 <hero className="flex flex-col w-full xl:justify-between xl:flex-row items-center xl:items-stretch ">
 
                     {/* LEFT */}
-                    <div className='xl:max-w-[500px] w-full flex items-center justify-center '>
-                        <img src={scarecrow} alt="scarecrow" className='xl:max-w-[539.22px] max-w-[500px] w-full px-[24px] xl:px-0' />
+                    <div className='xl:max-w-[540px] flex items-center justify-center'>
+                        <img src={scarecrow} alt="scarecrow" className='max-w-[500px] xl:max-w-[539.22px]  w-full px-[24px] xl:px-0' />
                     </div>
 
                     {/* RIGHT */}
