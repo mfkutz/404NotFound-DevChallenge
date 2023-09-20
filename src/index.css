@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    html {
+        font-family: 'Inconsolata', monospace;
+        font-family: 'Space Mono', monospace;
+    }
+
+    .wrapper {
+        width: 1215px;
+        margin: 0 auto;
+    }
+}
